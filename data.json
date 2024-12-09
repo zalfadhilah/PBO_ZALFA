@@ -1,0 +1,38 @@
+[
+    {
+        "id": "673abcd903206",
+        "nama": "teh matcha",
+        "harga": "15000",
+        "stok": "50"
+    },
+    {
+        "id": "675694da4f8d1",
+        "nama": "kopi hitam",
+        "harga": "10000",
+        "stok": "20"
+    },
+    {
+        "id": "675694ef67642",
+        "nama": "latte",
+        "harga": "15000",
+        "stok": "30"
+    },
+    {
+        "id": "67569510b12c6",
+        "nama": "cappuccino",
+        "harga": "16000",
+        "stok": "35"
+    },
+    {
+        "id": "67569586e2b81",
+        "nama": "Mocha",
+        "harga": "20",
+        "stok": "15"
+    },
+    {
+        "id": "675695a5e938b",
+        "nama": "teh ",
+        "harga": "5000",
+        "stok": "40"
+    }
+]
